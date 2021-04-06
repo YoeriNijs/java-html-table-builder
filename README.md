@@ -47,7 +47,7 @@ Output:
     </thead>
     <tbody>
     </tbody>
-</table>"));
+</table>
 ```
 
 ### Good to know
