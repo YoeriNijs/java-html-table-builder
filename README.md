@@ -17,7 +17,8 @@ Output:
             <th>hc1</th>
             <th>hc2</th>
             <th>hc3</th>
-        </tr></thead>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td>bc1</td>
